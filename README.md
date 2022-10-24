@@ -1,7 +1,7 @@
 # Hi there! I am Tanmay
 
-<img align= "left" width=48% src="https://github-readme-stats.vercel.app/api?username=Tanmay09516&show_icons=true&theme=midnight-purple&count_private=true" />
-<img align= "left" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09516&layout=compact" />
+<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api?username=Tanmay09516&show_icons=true&theme=midnight-purple&count_private=true" />
+<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09516&layout=compact" />
 
 ## My Skills
 
