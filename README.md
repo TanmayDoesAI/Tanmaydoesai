@@ -2,7 +2,7 @@
 
 <img align= "left" width=47% src="https://github-readme-stats.vercel.app/api?username=Tanmay09516&show_icons=true&theme=midnight-purple&count_private=true" />
 <img align= "left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09516&layout=compact" />
-
+<br/>
 ## My Skills
 
 #### Code Stack
