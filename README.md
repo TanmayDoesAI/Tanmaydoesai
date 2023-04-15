@@ -1,25 +1,27 @@
-# Hi there! I am Tanmay
+<h2> Hi, I'm Tanmay <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>- Engineering Student</a></br>
+<em>- Prompt engineer</em></br>
+<em>- AI and ML enthusiast</em>
+</p>
 
-<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api?username=Tanmaydoesai&show_icons=true&theme=midnight-purple&count_private=true" />
-<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaydoesai&layout=compact" />
 
-## My Skills
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/tanmaydoesai?style=social)](https://twitter.com/Tanmaydoesai)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Tanmay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-jain-1/)](https://www.linkedin.com/in/tanmay-jain-1/)
+[![GitHub TanmayDoesAI](https://img.shields.io/github/followers/tanmaydoesai?label=follow&style=social)](https://github.com/tanmaydoesai)
 
-#### Code Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### Design Stack
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+```javascript
+const bio = {
+  pronouns: "he" | "him",
+  code: [Python, R, Javascript, HTML, CSS, Java],
+  tools: [React, Next, Vue],
+  techCommunities: {
+                        Founder: "AI ML Forum at JECRC University",
+                        member: "JU Makerspace",
+                      },
+ challenge: "I am doing the #100DaysOfML challenge and finding my way through this AI-mazing stuff"
+}
+```
 
-### Connect With me 
-[<img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/shutupyaartanmay/)
-[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tanmay-jain1/?_l=en_US)
+<img align= "left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaydoesai&layout=compact" />
