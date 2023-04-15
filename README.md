@@ -1,7 +1,7 @@
 # Hi there! I am Tanmay
 
-<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api?username=Tanmay09516&show_icons=true&theme=midnight-purple&count_private=true" />
-<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09516&layout=compact" />
+<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api?username=Tanmaydoesai&show_icons=true&theme=midnight-purple&count_private=true" />
+<img align= "left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaydoesai&layout=compact" />
 
 ## My Skills
 
@@ -21,5 +21,5 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### Connect With me 
-[<img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/tanmay9516/)
+[<img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/shutupyaartanmay/)
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tanmay-jain1/?_l=en_US)
