@@ -1,8 +1,8 @@
 <h2> Hi, I'm Tanmay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>- Engineering Student</em></br>
-<em>- Prompt engineer</em></br>
 <em>- AI and ML enthusiast</em>
 </p>
+<h3>I am currently Working on <a href="https://github.com/KillianLucas/open-interpreter">open-interpreter</a></h3>
 
 [![Twitter: TanmayDoesAI](https://img.shields.io/twitter/follow/tanmaydoesai?style=social)](https://twitter.com/Tanmaydoesai)
 [![Linkedin: Tanmay Jain](https://img.shields.io/badge/-Tanmay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-jain-1/)](https://www.linkedin.com/in/tanmay-jain-1/)
