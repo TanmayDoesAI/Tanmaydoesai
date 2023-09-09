@@ -4,6 +4,8 @@
 </p>
 <h3>I am currently Working on <a href="https://github.com/KillianLucas/open-interpreter">open-interpreter</a></h3>
 
+<h4>Contact me at my <a href=mailto:tanmay5tj@gmail.com>email</a> or </h4>
+
 [![Twitter: TanmayDoesAI](https://img.shields.io/twitter/follow/tanmaydoesai?style=social)](https://twitter.com/Tanmaydoesai)
 [![Linkedin: Tanmay Jain](https://img.shields.io/badge/-Tanmay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmay-jain-1/)](https://www.linkedin.com/in/tanmay-jain-1/)
 [![GitHub TanmayDoesAI](https://img.shields.io/github/followers/tanmaydoesai?style=social)](https://github.com/tanmaydoesai)
