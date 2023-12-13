@@ -2,8 +2,6 @@
 <p><em>- Engineering Student</em></br>
 <em>- AI and ML enthusiast</em>
 </p>
-<h3>I am currently Working on <a href="https://github.com/KillianLucas/open-interpreter">open-interpreter</a></h3>
-
 <h4>Contact me at my <a href=mailto:tanmay5tj@gmail.com>email</a> or </h4>
 
 [![Twitter: TanmayDoesAI](https://img.shields.io/twitter/follow/tanmaydoesai?style=social)](https://twitter.com/Tanmaydoesai)
