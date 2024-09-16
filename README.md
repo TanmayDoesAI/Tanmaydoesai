@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tanmay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>- Engineering Student specializing in Data Science and Analytics</em></br>
-<em>- AI and ML enthusiast currently exploring Blockchain</em></br>
+<em>- AI and ML enthusiast</em></br>
 <em>- <a href="https://tanmaydoesai.github.io/">Portfolio Website</a></em></p>
 
 <h4>Contact me at my <a href=mailto:tanmay5tj@gmail.com>email</a> or connect with me:</h4>
