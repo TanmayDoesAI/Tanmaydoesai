@@ -21,6 +21,6 @@ class Bio:
             "Founder": "AI ML Forum at JECRC University",
             "Software Lead": "JU Makerspace"
         }
-        self.interests = ["AI", "ML", "Blockchain", "Data Analytics"]
+        self.interests = ["AI", "ML", "Data Analytics"]
 ```
 <img align= "left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaydoesai&layout=compact" />
