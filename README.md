@@ -48,4 +48,4 @@ Currently **AI Engineer at Aptus Data Labs**, taking AI from requirements to dep
 - Collaborator & maintainer on [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) (2023): reviewed contributions, improved contributor docs, chased model-compatibility issues.
 - Software Lead at JU Makerspace, JECRC University (2022–2024): led student software projects and AI workshops.
 - B.Tech. in Computer Science (Data Science & Analytics), JECRC University, 2025.
-- AWS Certified Generative AI Developer (2026) · Smart India Hackathon (2023)
+- Won IdeaSpark, JECRC University (multi-day competition, 2,000+ third-year CSE students) · Smart India Hackathon 2023: 7th in JECRC's internal round
